@@ -1,12 +1,16 @@
 {
     "name": "api/rauth",
-    "description": "this basic authentication for rest api in easy way also in undesr developemt in beta stage",
+    "description": "this basic authentication for rest api in easy way also in under development in beta stage",
     "type": "library",
+	"keywords": ["framework", "laravel"],
+    "license": "MIT",
     "authors": [
         {
             "name": "yuvraj",
             "email": "yuvrajdjadhav@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "7.2.1"
+    }
 }
