@@ -1,6 +1,6 @@
 {
     "name": "api/rauth",
-    "description": "this basi authentication for rest api in easy way also in undesr developemt in beta stage",
+    "description": "this basic authentication for rest api in easy way also in undesr developemt in beta stage",
     "type": "library",
     "authors": [
         {
