@@ -1,16 +1,8 @@
 {
-    "name": "api/rauth",
-    "description": "this basic authentication for rest api in easy way also in under development in beta stage",
+    "name": "yuvraj/rauth",
+    "description": "this is package is under developemnt for authentication of laravel",
     "type": "library",
-	"keywords": ["framework", "laravel"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "yuvraj",
-            "email": "yuvrajdjadhav@gmail.com"
-        }
-    ],
-    "require": {
-        "php": "7.2.1"
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
